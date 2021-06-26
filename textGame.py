@@ -11,7 +11,7 @@ while True:
         two = input()
         
         if two == 'left':
-            print('Yeah boy! Feeling you')
+            print('Yeah boy! 11 Feeling you')
             print('Welcome to stage three. This room has no doors. Just walk through any wall to find the mystical casino')
             
             three = input()
